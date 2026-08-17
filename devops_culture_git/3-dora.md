@@ -10,10 +10,10 @@
 Deployment Frequency is poor. Four deploys a year means large, infrequent, riskier batches — the classic "low performer" pattern, whereas elite teams deploy on demand, multiple times a day.
 
 ## Q3
-Lead Time for Changes improves. Justification: that's literally the interval this metric measures — merge-to-production time, nothing else.
+Lead Time for Changes improves. That's literally the interval this metric measures — merge-to-production time, nothing else.
 
 ## Q4
-Change Failure Rate (25%). High = bad. Justification: you want failures rare; a high CFR means your tests/review process isn't catching problems before they hit prod.
+Change Failure Rate (25%). High = bad. You want failures rare; a high CFR means your tests/review process isn't catching problems before they hit prod.
 
 ## Q5
 Culture, Automation, Lean, Measurement, Sharing. Culture and Sharing build trust and collaboration, Automation and Lean cut waste and manual risk, and Measurement (the DORA metrics) makes progress objective rather than a matter of opinion.
