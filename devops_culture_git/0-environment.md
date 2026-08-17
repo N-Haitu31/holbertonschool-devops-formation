@@ -1,6 +1,6 @@
 # Running bash check-setup.sh:
 
-\`\`\`
+```
 === Vérification de l'environnement ===
   [ OK ] Docker installé et démon actif (Docker version 29.6.2)
   [ OK ] Git installé (git version 2.34.1)
@@ -10,7 +10,7 @@
   [ OK ] Node.js présent (v20.20.2)
 =======================================
 Tout est pret. Bon cours !
-\`\`\`
+```
 
 # docker run hello-world:
 
