@@ -14,7 +14,7 @@ Outcome: I approved the PR, and it was merged.
 ## PR 2 — Author: N-Haitu31, Reviewer: ClaymeCall
 URL: https://github.com/ClaymeCall/devops_git_task_1/pull/2
 
-Changes: Added documentation to README.md (Commit title: "Added documentation to the README file.")
+Changes: Added documentation to README.md (Commit title: "feat: Add documentation to README")
 
 Review feedback: ClaymeCall requested changes, pointing out a missing capital letter and missing punctuation.
 
