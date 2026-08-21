@@ -20,6 +20,6 @@ services:
   api:
     image: nginx:alpine
     ports:
-      - "8093:8080"
+      - "8093:80"
     depends_on:
       - db
