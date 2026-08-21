@@ -2,7 +2,7 @@ services:
   db:
     image: postgres:16
     environment:
-      - POSTGRES_PASSWORD=toto123
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD}
 
   api:
     build: ./api
