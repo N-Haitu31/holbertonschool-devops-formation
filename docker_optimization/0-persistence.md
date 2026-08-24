@@ -2,7 +2,7 @@
 
 ## Commands
 
-```
+```bash
 # 1. Run Postgres with a named volume
 docker run -d --name pg-test -e POSTGRES_PASSWORD=toto123 -v pgdata:/var/lib/postgresql/data postgres:16
 
